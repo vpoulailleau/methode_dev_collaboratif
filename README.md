@@ -13,7 +13,10 @@ Votre code interragira sous forme de fichiers textes avec l'interface du jeu (TO
 
 ## Algorithme
 
-Allez d'abord au plus simple
+Allez d'abord au plus simple, afin d'avoir très vite un projet fonctionnel :
+* pilotez un seul camion avec une double boucle sur les X et les Y
+* pilotez ensuite un seul camion en allant au cristal le plus proche
+* pilotez ensuite plusieurs camions qui collaborent
 
 ## Intégration continue
 
