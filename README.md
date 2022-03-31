@@ -9,11 +9,11 @@
 
 Vous devrez prévoir un code qui permet de répondre au jeu suivant : https://github.com/vpoulailleau/crystal_trucks
 
-Votre code interragira sous forme de fichiers textes avec l'interface du jeu (TODO prévoir stdin ?), en respectant les règles à disposition dans le dépôt. Vous pouvez utilisez `game.py` qui est fourni, afin de générer les cartes à résoudre.
+Votre code interagira sous forme de fichiers textes avec l'interface du jeu (TODO prévoir stdin ?), en respectant les règles à disposition dans le dépôt. Vous pouvez utiliser `game.py` qui est fourni, afin de générer les cartes à résoudre.
 
 ## Algorithme
 
-Allez d'abord au plus simple, afin d'avoir très vite un projet fonctionnel :
+Allez d'abord au plus simple, afin d'avoir très vite un projet fonctionnel :
 * pilotez un seul camion avec une double boucle sur les X et les Y
 * pilotez ensuite un seul camion en allant au cristal le plus proche
 * pilotez ensuite plusieurs camions qui collaborent
@@ -31,5 +31,5 @@ Mise en place de qualimétrie (flake8 ? black ?)
   * Présentation de la méthodologie de test
   * Présentation de la qualimétrie
   * Présentation de l'automatisation (intégration continue)
-  * Compétition : mesures des scores sur quelques cartes, pour avoir un meilleur score que les autres équipes
+  * Compétition : mesures des scores sur quelques cartes, pour avoir un meilleur score que les autres équipes
   * Note de groupe
