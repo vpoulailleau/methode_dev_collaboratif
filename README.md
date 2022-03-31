@@ -7,6 +7,10 @@
   * Par équipe de 4
   * Par des pull requests
 
+Vous devrez prévoir un code qui permet de répondre au jeu suivant : https://github.com/vpoulailleau/crystal_trucks
+
+Votre code interragira sous forme de fichiers textes avec l'interface du jeu (TODO prévoir stdin ?), en respectant les règles à disposition dans le dépôt. Vous pouvez utilisez `game.py` qui est fourni, afin de générer les cartes à résoudre.
+
 ## Algorithme
 
 Allez d'abord au plus simple
