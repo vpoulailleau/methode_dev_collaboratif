@@ -38,6 +38,30 @@ Start!
 
 Il est possible de capturer le résultat des `print` pour les traiter ensuite, avec `redirect_stdout` par exemple (https://stackoverflow.com/a/40984270/12199445).
 
+```python3
+>>> import game
+>>> game.init_game(4)
+trucks: 6
+width: 28
+height: 11
+
+### Grid ###
+2   2 1          22       2 
+1   21       2  2      111 1
+  1    2 222   2       2    
+  2     121 11       1  1   
+ 222   21221 2 11112    2 2 
+21 11 21  1  2 22221 21  2  
+ 1   2   222     22 2    122
+ 2 112      1 1121 1 2   1 1
+   12 1 1   1    11 1 2 1112
+2  1 1  1112 1 12   211 22  
+1  1  21       2  2    2  1 
+### End Grid ###
+
+Start!
+```
+
 ## Algorithme
 
 Allez d'abord au plus simple, afin d'avoir très vite un projet fonctionnel :
