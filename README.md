@@ -35,6 +35,8 @@ height: 11
 Start!
 ```
 
+Il est possible de capturer le résultat des `print` pour les traiter ensuite, avec `redirect_stdout` par exemple (https://stackoverflow.com/a/40984270/12199445).
+
 ## Algorithme
 
 Allez d'abord au plus simple, afin d'avoir très vite un projet fonctionnel :
