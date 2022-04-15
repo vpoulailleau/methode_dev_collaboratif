@@ -8,12 +8,13 @@ repos:
     rev: 3.9.2
     hooks:
     - id: flake8
-# -   repo: local
-#     hooks:
-#     - id: tests
-#       name: run tests
-#       entry: pytest -v test
-#       language: python
-#       types: [python]
-#       stages: [commit]
-
+-   repo: local
+    hooks:
+    - id: pytest
+      name: pytest
+      entry: pipenv run pytest
+      language: system
+      types: [python]
+      stages: [commit]
+      pass_filenames: false
+      always_run: true
