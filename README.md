@@ -11,6 +11,7 @@ Contraintes :
   * Par des pull requests
 
 Votre code interagira sous forme de fichiers textes avec l'interface du jeu (`TODO prévoir stdin ?`), en respectant les règles à disposition dans le dépôt. Vous pouvez utiliser `game.py` qui est fourni, afin de générer les cartes à résoudre.
+<<<<<<< HEAD
 
 ```python3
 >>> import game
@@ -37,6 +38,8 @@ Start!
 ```
 
 Il est possible de capturer le résultat des `print` pour les traiter ensuite, avec `redirect_stdout` par exemple (https://stackoverflow.com/a/40984270/12199445).
+=======
+>>>>>>> refactoring
 
 ```python3
 >>> import game
