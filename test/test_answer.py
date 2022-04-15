@@ -48,3 +48,7 @@ def test_marilyn():
 
 def test_guillaume():
     assert inc(13) == 9
+
+
+def test_clem():
+    assert inc(13) == 9
