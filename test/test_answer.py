@@ -13,3 +13,6 @@ def test_toto():
 
 def test_tata():
     assert inc(6) == 8
+
+def test_titi():
+    assert inc(8) == 8
