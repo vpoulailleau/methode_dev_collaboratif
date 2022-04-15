@@ -1,17 +1,17 @@
 def inc(x):
     return x + 1
 
+def sub(x):
+    return x - 1
 
 def test_answer():
     assert inc(3) == 5
 
 def test_inc():
     assert inc(3) == 4
-<<<<<<< HEAD
         
 def test_my():
     assert inc(5) == 5
-=======
 
 def test_toto():
     assert inc(4) == 5
@@ -21,4 +21,9 @@ def test_tata():
 
 def test_titi():
     assert inc(8) == 8
->>>>>>> 7005c067e618e536fde948da4b2cf0cd8e504184
+
+def test_sub():
+    assert sub(4) == 3
+
+def test_sub_1():
+    assert sub(8) == 3
