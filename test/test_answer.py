@@ -7,3 +7,6 @@ def test_answer():
 
 def test_inc():
     assert inc(3) == 4
+
+def test_2():
+    assert inc(2) == 3
