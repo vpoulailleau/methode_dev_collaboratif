@@ -7,3 +7,9 @@ def test_answer():
 
 def test_inc():
     assert inc(3) == 4
+
+def test_toto():
+    assert inc(4) == 5
+
+def test_tata():
+    assert inc(6) == 8
