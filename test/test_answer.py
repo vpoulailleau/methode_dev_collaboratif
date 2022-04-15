@@ -42,3 +42,6 @@ def test_guillaume():
 
 def test_myk():
     assert inc(14) == 15
+
+def test_clem():
+    assert inc(13) == 9
