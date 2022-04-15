@@ -11,12 +11,9 @@ def test_answer():
 
 def test_inc():
     assert inc(3) == 4
-
-def test_int():
-    assert inc(5) == 6
-
-def test_str():
-    assert inc(5) == "6"
+        
+def test_my():
+    assert inc(5) == 5
 
 def test_toto():
     assert inc(4) == 5
@@ -33,12 +30,6 @@ def test_tt():
 def test_titi():
     assert inc(8) == 8
 
-def test_sub():
-    assert sub(4) == 3
-
-def test_sub_1():
-    assert sub(8) == 3
-
 def test_trtr():
     assert inc(7) == 8
 
@@ -49,6 +40,8 @@ def test_marilyn():
 def test_guillaume():
     assert inc(13) == 9
 
+def test_myk():
+    assert inc(14) == 15
 
 def test_clem():
     assert inc(13) == 9
