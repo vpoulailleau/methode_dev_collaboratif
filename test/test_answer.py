@@ -15,12 +15,6 @@ def test_inc():
 def test_my():
     assert inc(5) == 5
 
-def test_int():
-    assert inc(5) == 6
-
-def test_str():
-    assert inc(5) == "6"
-
 def test_toto():
     assert inc(4) == 5
 
@@ -38,3 +32,13 @@ def test_titi():
 
 def test_trtr():
     assert inc(7) == 8
+
+def test_marilyn():
+    assert inc(12) == 9
+
+
+def test_guillaume():
+    assert inc(13) == 9
+
+def test_myk():
+    assert inc(14) == 15
