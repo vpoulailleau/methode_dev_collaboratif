@@ -5,6 +5,7 @@
 Vous devrez prévoir un code qui permet de répondre au jeu suivant : https://github.com/vpoulailleau/crystal_trucks
 
 Contraintes :
+
 * Python 3.10 sur PC
 * Coopération avec git sur GitHub
   * Par équipe de 4
@@ -41,6 +42,7 @@ Il est possible de capturer le résultat des `print` pour les traiter ensuite, a
 ## Algorithme
 
 Allez d'abord au plus simple, afin d'avoir très vite un projet fonctionnel :
+
 * pilotez un seul camion avec une double boucle sur les X et les Y, en creusant si un cristal est disponible
 * pilotez ensuite un seul camion en allant au cristal le plus proche
 * pilotez ensuite plusieurs camions qui collaborent
@@ -60,7 +62,6 @@ Mise en place de qualimétrie (flake8 ? black ?)
   * Présentation de l'automatisation (intégration continue)
   * Compétition : mesures des scores sur quelques cartes, pour avoir un meilleur score que les autres équipes
   * Note de groupe
-
 
 ## Groupe
 
