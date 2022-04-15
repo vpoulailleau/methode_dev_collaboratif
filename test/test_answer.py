@@ -50,3 +50,6 @@ def test_sub_1():
 
 def test_trtr():
     assert inc(7) == 8
+
+def test_marilyn():
+    assert inc(12) == 9
