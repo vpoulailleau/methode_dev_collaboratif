@@ -60,3 +60,14 @@ Mise en place de qualimétrie (flake8 ? black ?)
   * Présentation de l'automatisation (intégration continue)
   * Compétition : mesures des scores sur quelques cartes, pour avoir un meilleur score que les autres équipes
   * Note de groupe
+
+
+## Groupe
+
+* Groupe 1 : LEGEAY Corentin, CUISINIER Guillaume, CHICHERIT ROUBAUD Marilyn
+* Groupe 2 : PENAUD Matteo , CHAMONT-HARO Léo, MOUSSETAFA Moïse
+* Groupe 3 : CAMIN Enzo, DIAZ Raphael, PASCAL Florian
+* Groupe 4 : GUELLEC Clement, BOURON Cedric, CANETOS Constantin
+* Groupe 5:  HAMIDA Yacine, PIHERY Lucas, VIGOLO Yoann,  CHAMOINRI Ifuja
+* Groupe 6: CHEVRIER-CHAHIDI Arthur, KOUFI Mohamed Yanis
+* Groupe 7: TAPIA Marion, ORTO Dylan
