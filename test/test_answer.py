@@ -7,6 +7,18 @@ def test_answer():
 
 def test_inc():
     assert inc(3) == 4
+<<<<<<< HEAD
         
 def test_my():
     assert inc(5) == 5
+=======
+
+def test_toto():
+    assert inc(4) == 5
+
+def test_tata():
+    assert inc(6) == 8
+
+def test_titi():
+    assert inc(8) == 8
+>>>>>>> 7005c067e618e536fde948da4b2cf0cd8e504184
