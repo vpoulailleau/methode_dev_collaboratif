@@ -8,12 +8,12 @@ repos:
     rev: 3.9.2
     hooks:
     - id: flake8
--   repo: local
-    hooks:
-    - id: tests
-      name: run tests
-      entry: pytest -v
-      language: python
-      types: [python]
-      stages: [commit]
+# -   repo: local
+#     hooks:
+#     - id: tests
+#       name: run tests
+#       entry: pytest -v test
+#       language: python
+#       types: [python]
+#       stages: [commit]
 
