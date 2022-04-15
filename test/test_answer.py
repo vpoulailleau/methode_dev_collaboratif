@@ -19,9 +19,6 @@ def test_tata():
 def test_tt():
     assert inc(9) == 9
 
-def bar_a_couda():
-    assert inc(19) == 19
-
 def test_titi():
     assert inc(8) == 8
 
