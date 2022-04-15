@@ -16,10 +16,12 @@ def test_toto():
 def test_tata():
     assert inc(6) == 8
 
-
 def test_collaboratif():
     assert inc(15) == 15
-=======
+
+def test_tt():
+    assert inc(9) == 9
+
 def test_titi():
     assert inc(8) == 8
 
@@ -31,3 +33,4 @@ def test_sub_1():
     
 def test_trtr():
     assert inc(7) == 8
+
