@@ -16,3 +16,15 @@ def test_int():
 
 def test_str():
     assert inc(5) == "6"
+
+
+def test_toto():
+    assert inc(4) == 5
+
+
+def test_tata():
+    assert inc(6) == 8
+
+
+def test_titi():
+    assert inc(8) == 8
