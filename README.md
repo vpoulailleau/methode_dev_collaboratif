@@ -16,7 +16,7 @@ Votre code interagira par la ligne de commande, en respectant les règles à dis
 python3 votre_fichier.py 4 fichier_de_sortie.txt # 4 est le numéro de la partie
 ```
 
-Vous pouvez utiliser `game.py` qui est fourni, afin de générer les cartes à résoudre. Votre programme doit écrire dans le fichier de sortie quelque chose de similaire à https://github.com/vpoulailleau/crystal_trucks#sample-text
+Vous devez utiliser `game.py` qui est fourni, afin de générer les cartes à résoudre. Votre programme doit écrire dans le fichier de sortie quelque chose de similaire à https://github.com/vpoulailleau/crystal_trucks#sample-text
 
 ```python3
 >>> import game
